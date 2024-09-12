@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <img src="https://www.google.com/search?sca_esv=91e3e3360bc36966&sxsrf=ADLYWIJXOVFDDcNn2DaF1naH_yG6agrevg:1726139670662&q=error+sans&udm=2&fbs=AEQNm0BKxFXqFZETuC92mLOmXO9xTuwl7LTqpjEikSHB2sNnAo_Nt6_jBoO5j_EG4ZXs8aQCufxT5WhqKxk_t3EFVMM67rI6i01ADbZ-a5wYaAsalDcO6S1GH-LO2-BpNO0GjKIvvxoXnjjP08V8RmhXnS3ZTYi7mGxclhyNM7kU-cEZojmfYb66zxZupqQ3TpTT-qjAIEt1CwlZuUTZOKSe8wS1nEmI6w&sa=X&ved=2ahUKEwj845uvo72IAxXB8DQHHUM_NdgQtKgLegQIDxAB&biw=1280&bih=593&dpr=1.5#vhid=z7_UYzP64K3JiM&vssid=mosaic"
+    <ul class="Contact">
+    <p> </ul><p>
+    <h2>Yacat, Elisha Dane P.</h2>
+    Address: Blk 16 Lot 16A, Bergamo St., Pallas Athena Classique, Anabu II-D, Imus City, Cavite
+    <br>Cellphone Number: 09121220091
+    <br>Email Address: almilahdane@gmail.com
+</ul>
+<hr>
+<h2>Summary</h2>
+<p>I am a diligent and focused worker that values God and my relationships with the ones that I love. I specialize in database security, software management.
+<hr>
+<h2>Educational Attainment</h2>
+<ul>
+    <li>Masters in Computer Technology <br> Philippine Christian University <br> Pedro Gil, Manila <br> Graduated in March 2023 </li>
+    <li>Bachelor of Science in Information Technology <br> De La Salle University Dasmariñas <br> Dasma, Cavite </li>
+</ul>
+<hr>
+<h2>Work Experience</h2>
+<ul>
+    <h3><li>Technical Support Canon Philipines</li></h3>
+    June 2023 - Present
+    <ul>
+        <ul>
+            <br><li>Assisting employees with IT issues.</li>
+            <li>Involvement in network maintenance.</li>
+            <li>Hardware and software troubleshooting.</li>
+        </ul>
+    </ul> 
+    <h3><li>Data Management Accenture Inc.</li></h3>
+    May 2017 - May 2022
+    <ul>
+        <br><li>Administration of Information System</li>
+        <li>Database security, recovery, and integrity checks.</li>
+    </ul>
+    <hr>
+    <h2>Core Skills</h2>
+    <ul>
+        <li>Proficient literacy in JavaScript</li>
+        <li>Proficient litercy in Visual Studio</li>
+    </ul>
+    <hr>
+    <h2>Awards and Certifications</h2>
+    <ul>
+        <li>Service Excellence Award Accenture Inc. (May 2020)</li>
+    </ul>
+    © Yacat, Elisha Dane P. All rights reserved.
+</body>
+</html>
+
